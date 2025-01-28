@@ -11,7 +11,6 @@ Your task is to convert strings to how they would be written by Jaden Smith. The
 ```plaintext
 Not Jaden-Cased: "How can mirrors be real if our eyes aren't real"
 Jaden-Cased:     "How Can Mirrors Be Real If Our Eyes Aren't Real"
-
+```
 
 [Link to Jaden's former Twitter account @officialjaden via archive.org](https://web.archive.org/web/20190624190255/https://twitter.com/officialjaden)
-```
