@@ -1,0 +1,5 @@
+export const zeroFuel = (
+  distance: number,
+  mpg: number,
+  fuelLeft: number
+): boolean => mpg * fuelLeft - distance >= 0;
