@@ -3,7 +3,7 @@ const lang: Record<string, string> = {
   czech: "Vitejte",
   danish: "Velkomst",
   dutch: "Welkom",
-  estonian: "Tere tulemas",
+  estonian: "Tere tulemast",
   finnish: "Tervetuloa",
   flemish: "Welgekomen",
   french: "Bienvenue",
